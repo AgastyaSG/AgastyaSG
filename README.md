@@ -13,6 +13,8 @@ knowledge faster than ever before.
 
 ## What I'm working on
 
+  **[QSD)** - coming soon..
+
 **[AI-Scientist](https://github.com/AgastyaSG/AI-Scientist)** — an LLM agent that chooses
 which experiment to run next under a fixed budget, benchmarked against random and grid
 search on an architecture-search task. It reached the best known answer in 4 experiments
